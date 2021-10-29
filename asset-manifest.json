@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/To-Do-App/static/css/main.311dede7.chunk.css",
+    "main.js": "/To-Do-App/static/js/main.81b93233.chunk.js",
+    "main.js.map": "/To-Do-App/static/js/main.81b93233.chunk.js.map",
+    "runtime-main.js": "/To-Do-App/static/js/runtime-main.83f3ffed.js",
+    "runtime-main.js.map": "/To-Do-App/static/js/runtime-main.83f3ffed.js.map",
+    "static/js/2.f8c7b18b.chunk.js": "/To-Do-App/static/js/2.f8c7b18b.chunk.js",
+    "static/js/2.f8c7b18b.chunk.js.map": "/To-Do-App/static/js/2.f8c7b18b.chunk.js.map",
+    "index.html": "/To-Do-App/index.html",
+    "static/css/main.311dede7.chunk.css.map": "/To-Do-App/static/css/main.311dede7.chunk.css.map",
+    "static/js/2.f8c7b18b.chunk.js.LICENSE.txt": "/To-Do-App/static/js/2.f8c7b18b.chunk.js.LICENSE.txt",
+    "static/media/cancel.00b28cea.png": "/To-Do-App/static/media/cancel.00b28cea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83f3ffed.js",
+    "static/js/2.f8c7b18b.chunk.js",
+    "static/css/main.311dede7.chunk.css",
+    "static/js/main.81b93233.chunk.js"
+  ]
+}
